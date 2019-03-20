@@ -197,7 +197,7 @@
 					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">close</span></button>
 					<h4 class="modal-title">注意事项</h4>
 				</div>
-				<div class="modal-body">该网站仅用于参考</div>
+				<div class="modal-body">该网站仅是个人学习，不用于商业。</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">了解了</button>
 			</div>
